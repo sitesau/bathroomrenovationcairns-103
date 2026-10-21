@@ -1,0 +1,22 @@
+{
+  "wheel_id": 491,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcairns-103",
+  "project": "bathroom-renovations-cairns-how-to-choose-7b9121c5584164c7ae82e",
+  "parent_t1_ref": "bathroomrenovationcairns-151",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcairns.com.au",
+  "primary_kw": "bathroom renovations cairns how to choose",
+  "intended_url": "http://bathroom-renovations-cairns-how-to-choose-7b9121c5584164c7ae82e.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "62a037b0990671d5",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathroomrenovationcairns-151/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
